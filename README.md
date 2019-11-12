@@ -14,6 +14,8 @@ At the bottom of the base, there is circular cover fixed by three M3 screws. The
 ![Trophy](Images/cables1.jpg)
 ![Trophy](Images/cables2.jpg)
 
+Due to the uncalibrated printer, trophy was printed around 2% smaller than designed - please account that difference when spare parts will be printed.
+
 ## Electronics
 ESP8266 board is used - [Lolin D1 R2](https://botland.com.pl/pl/moduly-wifi/8241-modul-wifi-esp8266-nodemcu-v3.html) together with [Waveshare 4.2'' e-paper](https://botland.com.pl/pl/wyswietlacze-e-paper/9655-waveshare-e-paper-e-ink-42-400x300px-modul-z-wyswietlaczem-spi.html). Due to the deep-sleep functionality, D0 output is connected to the reset pin. There are two unconnected wires between base and monitor - can be used to e.g. power lights or connect some sensor.
 
